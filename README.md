@@ -33,7 +33,7 @@ The goal of this project is to:
 1. **Clone the repository**
    ```bash
    git git clone git@github.com:johankarkaria/L1_L2_regularization_practice.git
-   cd L1_L2_regularization_practice.git
+   cd L1_L2_regularization_practice
 ## Suggestion
 
 I’m learning  in public — any **suggestions, improvements, or feedback** are always welcome!  
